@@ -8,3 +8,5 @@ Test Bench will also be provided, they are not amazing but can be used to test t
 
 Thank you for visiting and good luck on your jurney with VHDL!!!
 -Toc1cant
+
+P.S.: The .json file is a script for VScode to make typing faster. And all of these were developed and dested with normal non proprietary libraries but were compiled/built in Vivado 20.2 (all code was writen in 2022 from Jan to May)
